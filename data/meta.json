@@ -1,0 +1,16 @@
+{
+  "embeddings_parent_dir": "/content/drive/MyDrive/ethereum/Embeddings/results_dynamic_7categorys/",
+  "emb_folder_used": "stopwords_lemmatization_paraphrase-multilingual-MiniLM-L12-v2",
+  "classifier": "Random Forest",
+  "balanceamento": "sem_balanceamento",
+  "embedding_model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "classes": [
+    "art",
+    "gaming",
+    "memberships",
+    "music",
+    "pfps",
+    "photography",
+    "virtual-worlds"
+  ]
+}
